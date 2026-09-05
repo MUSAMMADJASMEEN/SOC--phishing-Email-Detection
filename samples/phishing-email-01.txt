@@ -1,0 +1,16 @@
+From: security-alert@example.com
+To: employee@example.com
+Subject: Urgent: Verify Your Account
+
+Dear User,
+
+We detected unusual activity on your account.
+Your account will be suspended unless you verify your identity immediately.
+
+Click the link below to verify your account:
+http://example.com/verify
+
+Please complete the verification within 24 hours.
+
+Regards,
+Security Team
