@@ -1,0 +1,15 @@
+From: payroll-update@example.com
+To: employee@example.com
+Subject: Action Required: Payroll Information Update
+
+Dear Employee,
+
+Your payroll information needs to be updated immediately.
+
+Please confirm your details using the link below:
+http://example.com/payroll-update
+
+Failure to update your information may result in delayed payment.
+
+Regards,
+Payroll Department
